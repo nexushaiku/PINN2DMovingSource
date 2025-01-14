@@ -1,0 +1,11 @@
+jax==0.4.29
+jaxlib==0.4.29
+flax==0.8.4
+numpy==1.26.4
+matplotlib==3.8.4
+tqdm==4.66.4
+typing_extensions==4.12.2
+chex==0.1.86
+optax==0.2.2
+dm-haiku==0.0.12
+scienceplots==2.1.1
